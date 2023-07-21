@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Kelvin Tran, an IT infrastructure trainer at CBT Nuggets!
+
+Certifications: 4x CCNP (Enterprise/SP/Sec/DevNet), 3x JNCIP (ENT/SP/DC), MCSE: Core Infrastructure
+
 <!--
 **kelvintechie1/kelvintechie1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
